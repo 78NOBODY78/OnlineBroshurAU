@@ -1,33 +1,39 @@
 {
-  "events": [
-    {
-      "date": "1234",
-      "subtitle": "",
-      "time": "1233",
-      "title": "12334"
-    },
-    {
-      "date": "Z",
-      "subtitle": "Я люблю Машеньку <3",
-      "time": "O",
-      "title": "V"
-    },
-    {
-      "date": "ГДЕ",
-      "subtitle": "Гитхаб обновился",
-      "time": "ВАЛИДАЦИЯ",
-      "title": "Ща добавлю"
-    },
-    {
-      "date": "Тестовая дата",
-      "subtitle": "",
-      "time": "Тестовое время",
-      "title": "Тестовое событие"
+    "events": [
+        {
+            "date": "12.02.26",
+            "subtitle": "наша бодяга",
+            "time": "15:00",
+            "title": "Тестим добавление и редактирование"
+        },
+        {
+            "date": "1234",
+            "subtitle": "",
+            "time": "1233",
+            "title": "12334"
+        },
+        {
+            "date": "Z",
+            "subtitle": "Я люблю Машеньку <3",
+            "time": "O",
+            "title": "V"
+        },
+        {
+            "date": "ГДЕ",
+            "subtitle": "Гитхаб обновился",
+            "time": "ВАЛИДАЦИЯ",
+            "title": "Ща добавлю"
+        },
+        {
+            "date": "Тестовая дата",
+            "subtitle": "",
+            "time": "Тестовое время",
+            "title": "Тестовое событие"
+        }
+    ],
+    "forms": {
+        "attendance": "",
+        "feedback": "",
+        "main": "https://forms.yandex.ru/...."
     }
-  ],
-  "forms": {
-    "main": "https://forms.yandex.ru/....",
-    "attendance": "",
-    "feedback": ""
-  }
 }
